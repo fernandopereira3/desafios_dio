@@ -1,9 +1,4 @@
-''' 
-Para ler e escrever dados em Python, utilizamos as seguintes funções: 
-- input: lê UMA linha com dado(s) de Entrada do usuário;
-- print: imprime um texto de Saída (Output), pulando linha.  
-'''
-
+# Para calculos de alicotas
 # De R$ 0.00 a R$ 1100.00 = 5.00%
 # De R$ 1100.01 a R$ 2500.00 = 10.00%
 # Maior que R$ 2500.00 = 15.00%
